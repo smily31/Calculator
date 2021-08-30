@@ -16,6 +16,7 @@ for(button of buttons)
         if(buttonText == 'C')
         {
             screen.value = "";
+            equation = "";
         }
         else if(buttonText == 'Esc')
         {
