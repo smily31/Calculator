@@ -14,6 +14,6 @@ MADE for **Challange1** under [**DevelopersDay**](https://developerdays.tech/) 5
   
 ## Demo
 
-To see my APP [click me](https://github.com/smily31/Calculator)
+To see my APP [click me](https://smily31.github.io/Calculator/)
 
   
